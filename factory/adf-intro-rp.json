@@ -1,9 +1,0 @@
-{
-	"name": "adf-intro-rp",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "7357f040-2447-4ee9-93c1-0a7811d2c443",
-		"tenantId": "5e37f527-e065-48b4-bcb2-5492d3495373"
-	}
-}
