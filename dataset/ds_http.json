@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "HttpServerLocation",
-				"relativeUrl": "rikupilli/rpdata/refs/heads/main/AdventureWorks_Products.csv?token=GHSAT0AAAAAAC3HMXNGDRC7CECCFVZ6TWBIZ2MPEZA"
+				"relativeUrl": "rikupilli/rpdata/refs/heads/main/AdventureWorks_Products.csv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
