@@ -74,6 +74,10 @@
 				],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "@activity('LookUpGit').output.value",
+						"type": "Expression"
+					},
 					"isSequential": true
 				}
 			},
