@@ -9,7 +9,7 @@
 					{
 						"activity": "LookUpGit",
 						"dependencyConditions": [
-							"Skipped"
+							"Succeeded"
 						]
 					}
 				],
@@ -87,7 +87,7 @@
 											"type": "Expression"
 										},
 										"p_filename": {
-											"value": "@item().p_filename",
+											"value": "@item().p_sink_file",
 											"type": "Expression"
 										}
 									}
